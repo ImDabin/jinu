@@ -15,7 +15,7 @@ public class goods5 extends AppCompatActivity {
     private static final int OFFER_ID = 2;
     private static final int PUSH_ID = 3;
     private static final int CHAT_ID = 4;
-    private static final int MY_ID = 6;
+    private static final int MY_ID = 5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
